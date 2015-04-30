@@ -6,6 +6,7 @@ header {
 p {
   color: green;
   background-color: white;
+  font-weight: bold;
 }
 
 h3 {
@@ -18,7 +19,7 @@ h2 {
 }
 
 .red{
-
+color: #800000;
 }
 #title  {
 
@@ -34,3 +35,7 @@ h2 {
 
 body {cursor: pointer;}
 
+li {
+  color: purple;
+  font-weight: bold;
+}
